@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/github/forks/FunCodersTeam/IPGW?style=flat&logo=github&color=blue">
 <img src="https://img.shields.io/github/issues/FunCodersTeam/IPGW?style=flat&logo=github">
 <br>
-<a href="#安装">安装</a> | <a href="#使用方法">使用方法</a> | <a href="https://github.com/FunCodersTeam/IPGW.git/issues/new">反馈</a>
+<a href="#安装">安装</a> | <a href="#使用方法">使用方法</a> | <a href="https://github.com/FunCodersTeam/IPGW/issues/new">反馈</a>
 </p>
 
 欢迎使用网关认证助手🎉！这是一个非常轻量化的 Bash 脚本，旨在为无桌面环境的用户提供便捷安全的 IPGW 认证方式。该脚本可以通过命令行工具进行调用，无需图形界面，无需安装额外软件，方便在服务器、终端等无桌面环境的情况下进行认证。
