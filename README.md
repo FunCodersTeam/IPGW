@@ -1,6 +1,7 @@
 <h1 align="center">东北大学网关认证助手</h1>
 
 <p align="center">
+<a href="https://app.codacy.com/gh/FunCodersTeam/IPGW/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade"><img src="https://app.codacy.com/project/badge/Grade/98f5b166f7cc4f6385eab32b69ff224d"/></a>
 <img src="https://img.shields.io/github/stars/FunCodersTeam/IPGW?style=flat&logo=github&color=ff69b4">
 <img src="https://img.shields.io/github/forks/FunCodersTeam/IPGW?style=flat&logo=github&color=blue">
 <img src="https://img.shields.io/github/issues/FunCodersTeam/IPGW?style=flat&logo=github">
