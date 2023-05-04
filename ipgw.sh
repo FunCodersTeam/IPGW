@@ -57,6 +57,7 @@ elif command -v wget >/dev/null 2>&1; then
     echo -e "\033[32m[+]\033[0m wget detected"
     loginout() {
         local res
+        res=$(wget -qO- "https://ipgw.neu.edu.cn/cgi-bin/srun_portal?action=logout")
         if [[ "$res" = *ok ]]; then
             echo -e "\033[32m[+]\033[0m Login out ok"
         else 
