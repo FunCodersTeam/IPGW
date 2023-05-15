@@ -64,7 +64,7 @@ $ loginout
 
 ## 维护者和联系方式
 
-此项目由 [guidons](https://github.com/guidons-master) 维护。如果您有任何问题或反馈，请通过 guidons.tech@google.com 联系我。
+此项目由 [guidons](https://github.com/guidons-master) 维护。如果您有任何问题或反馈，请通过 guidons.tech@gmail.com 联系我。
 
 ## 致谢
 
