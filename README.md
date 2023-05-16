@@ -20,30 +20,30 @@
 一旦您安装了 `curl` 或 `wget`，您可以从 Github 下载此脚本：
 
 ```bash
-$ git clone https://github.com/FunCodersTeam/IPGW.git
+git clone https://github.com/FunCodersTeam/IPGW.git
 ```
 如果您的设备可以访问校内网，建议您使用以下命令：
 ```bash
-$ curl -O http://219.216.99.37/ipgw.sh
+curl -O http://219.216.99.37/ipgw.sh
 ```
 或者：
 ```bash
-$ wget http://219.216.99.37/ipgw.sh
+wget http://219.216.99.37/ipgw.sh
 ```
 
 ## 使用方法
 
 要使用此脚本，请导航到保存脚本的目录，并运行以下命令：
 ```bash
-$ chmod +x ipgw.sh
+chmod +x ipgw.sh
 ```
 添加可执行权限后，再运行：
 ```bash
-$ . ipgw.sh
+. ipgw.sh
 ```
 或者：
 ```bash
-$ source ipgw.sh
+source ipgw.sh
 ```
 脚本将提示您输入您的学号和密码。输入您的凭据后，脚本将登录到 IPGW 系统中。
 
@@ -51,7 +51,7 @@ $ source ipgw.sh
 
 要退出 IPGW 系统，您可以运行以下命令：
 ```bash
-$ loginout
+loginout
 ```
 ## 结构和贡献
 
