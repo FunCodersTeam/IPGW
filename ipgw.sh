@@ -16,6 +16,7 @@ checkLogin() {
     if [[ "${message}" == "success" ]]; then
         echo -e "\033[32m[+]\033[0m Login success"
     else
+        echo -e "\033[31m[+]\033[0m $message"
         echo -e "\033[31m[+]\033[0m Login failure"
     fi
 }
